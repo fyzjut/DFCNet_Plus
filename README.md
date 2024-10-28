@@ -1,5 +1,5 @@
 # DFCNET
-This repo holds codes of the paper: DFCNet+: Cross-Modal Dynamic Feature Contrast Net for Continuous Sign Language Recognition.
+This repo holds codes of the paper: DFCNet+: Cross-Modal Dynamic Feature Contrast Net for Continuous Sign Language Recognition. https://doi.org/10.1016/j.imavis.2024.105260
 
 This repo is based on [CorrNet](https://github.com/hulianyuyy/CorrNet) & [TLP](https://github.com/hulianyuyy/Temporal-Lift-Pooling). Many thanks for those great work!
 
